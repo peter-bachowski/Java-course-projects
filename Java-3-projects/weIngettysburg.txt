@@ -1,0 +1,9 @@
+Lines in gettysburg.txt containing we: 
+4: Now we are engaged in a great civil war, testing whether that nation, or any 
+7: resting place for those who died here, that the nation might live. This we 
+10: But, in a larger sense, we can not dedicate we can not consecrate we can not
+12: hallowed it, far above our poor power to add or detract. The world will little
+13:  note, nor long remember what we say here; while it can never forget what they 
+16: It is rather for us, the living, we here be dedicated to the great task remaining
+17:  before us that, from these honored dead we take increased devotion to that cause
+18:  for which they here, gave the last full measure of devotion that we here highly 
